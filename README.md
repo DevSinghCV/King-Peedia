@@ -4,6 +4,7 @@ King Peedia is provide rajput history, rajput culture, clan, and news of rajput 
 Official Website: https://www.kingpeedia.com
 
 King Peedia Sitemap: https://www.kingpeedia.com/sitemap.xml
+
 King Peedia Feedburner: https://feeds.feedburner.com/kingpeedia
 
 
