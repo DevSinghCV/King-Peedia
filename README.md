@@ -1,6 +1,12 @@
 # King-Peedia
 King Peedia is provide rajput history, rajput culture, clan, and news of rajput in India. King Peedia is rajput news website in Hindi.
 
+Official Website: https://www.kingpeedia.com
+
+King Peedia Sitemap: https://www.kingpeedia.com/sitemap.xml
+King Peedia Feedburner: https://feeds.feedburner.com/kingpeedia
+
+
 Article Link Of King Peedia
 
 https://www.kingpeedia.com/2024/07/prithviraj-chauhan-shayari.html
